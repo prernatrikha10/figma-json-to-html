@@ -1,0 +1,1228 @@
+{
+  "name": "Figma basics",
+  "lastModified": "2024-06-27T22:29:46Z",
+  "thumbnailUrl": "https://s3-alpha.figma.com/thumbnails/4bdaf450-14bd-4617-9251-a0022791c315?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWCSTUKWGAW%2F20240627%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240627T000000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=99c03441958aad72ccc6e2d884a004a9c8c12f34041967ed60320264e0362b0d",
+  "version": "6097840364",
+  "role": "owner",
+  "editorType": "figma",
+  "linkAccess": "view",
+  "nodes": {
+    "4368:321106": {
+      "document": {
+        "id": "4368:321106",
+        "name": "Homepage",
+        "type": "FRAME",
+        "scrollBehavior": "SCROLLS",
+        "blendMode": "PASS_THROUGH",
+        "children": [
+          {
+            "id": "4368:321107",
+            "name": "We’re farmers, purveyors, and eaters of organically grown food.",
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "absoluteBoundingBox": {
+              "x": 1617.0,
+              "y": 1358.0,
+              "width": 1020.0,
+              "height": 154.0
+            },
+            "absoluteRenderBounds": {
+              "x": 1631.0343017578125,
+              "y": 1364.832031250,
+              "width": 997.86853027343750,
+              "height": 139.3679199218750
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT_RIGHT"
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 2.6774194240570068,
+            "strokeAlign": "OUTSIDE",
+            "exportSettings": [],
+            "effects": [],
+            "characters": "We’re farmers, purveyors, and eaters of organically grown food.",
+            "style": {
+              "fontFamily": "Newsreader",
+              "fontPostScriptName": "Newsreader-Regular",
+              "fontWeight": 400,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 64.0,
+              "textAlignHorizontal": "CENTER",
+              "textAlignVertical": "TOP",
+              "letterSpacing": -1.280,
+              "lineHeightPx": 76.800003051757812,
+              "lineHeightPercent": 120.00000762939453,
+              "lineHeightPercentFontSize": 120.00000762939453,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "layoutVersion": 3,
+            "characterStyleOverrides": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              0,
+              0,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1
+            ],
+            "styleOverrideTable": {
+              "1": {
+                "fontFamily": "Newsreader",
+                "fontPostScriptName": "NewsreaderItalic-Regular",
+                "italic": true,
+                "fontWeight": 400
+              }
+            },
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ]
+          },
+          {
+            "id": "4368:321108",
+            "name": "Button",
+            "type": "FRAME",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "children": [
+              {
+                "id": "4368:321109",
+                "name": "Browse our shop",
+                "type": "TEXT",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "absoluteBoundingBox": {
+                  "x": 2039.0,
+                  "y": 1579.0,
+                  "width": 163.0,
+                  "height": 26.0
+                },
+                "absoluteRenderBounds": {
+                  "x": 2040.4346923828125,
+                  "y": 1584.454589843750,
+                  "width": 159.83312988281250,
+                  "height": 18.63635253906250
+                },
+                "constraints": {
+                  "vertical": "CENTER",
+                  "horizontal": "CENTER"
+                },
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 1.0,
+                      "g": 1.0,
+                      "b": 1.0,
+                      "a": 1.0
+                    }
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1.0,
+                "strokeAlign": "OUTSIDE",
+                "exportSettings": [],
+                "effects": [],
+                "characters": "Browse our shop",
+                "style": {
+                  "fontFamily": "Inter",
+                  "fontPostScriptName": "Inter-SemiBold",
+                  "fontWeight": 600,
+                  "textAutoResize": "WIDTH_AND_HEIGHT",
+                  "fontSize": 20.0,
+                  "textAlignHorizontal": "LEFT",
+                  "textAlignVertical": "CENTER",
+                  "letterSpacing": 0.0,
+                  "lineHeightPx": 26.0,
+                  "lineHeightPercent": 107.41783905029297,
+                  "lineHeightPercentFontSize": 130.0,
+                  "lineHeightUnit": "FONT_SIZE_%"
+                },
+                "layoutVersion": 3,
+                "characterStyleOverrides": [],
+                "styleOverrideTable": {},
+                "lineTypes": [
+                  "NONE"
+                ],
+                "lineIndentations": [
+                  0
+                ]
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": 2007.0,
+              "y": 1560.0,
+              "width": 227.0,
+              "height": 64.0
+            },
+            "absoluteRenderBounds": {
+              "x": 2007.0,
+              "y": 1560.0,
+              "width": 227.0,
+              "height": 64.0
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "CENTER"
+            },
+            "clipsContent": true,
+            "background": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.25882354378700256,
+                  "g": 0.41960784792900085,
+                  "b": 0.12156862765550613,
+                  "a": 1.0
+                }
+              }
+            ],
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.25882354378700256,
+                  "g": 0.41960784792900085,
+                  "b": 0.12156862765550613,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "cornerRadius": 8.0,
+            "cornerSmoothing": 0.0,
+            "strokeWeight": 1.0,
+            "strokeAlign": "INSIDE",
+            "backgroundColor": {
+              "r": 0.25882354378700256,
+              "g": 0.41960784792900085,
+              "b": 0.12156862765550613,
+              "a": 1.0
+            },
+            "exportSettings": [],
+            "effects": []
+          },
+          {
+            "id": "4368:321110",
+            "name": "We believe in produce. Tasty produce. Produce like: Apples. Oranges. Limes. Lemons. Guavas. Carrots. Cucumbers. Jicamas. Cauliflowers. Brussels sprouts. Shallots. Japanese eggplants. Asparagus. Artichokes—Jerusalem artichokes, too. Radishes. Broccoli. Baby broccoli. Broccolini. Bok choy. Scallions. Ginger. Cherries. Raspberries. Cilantro. Parsley. Dill. What are we forgetting? Oh! Onions. Yams. Avocados. Lettuce. Arugula (to some, “rocket”). Persian cucumbers, in addition to aforementioned “normal” cucumbers. Artichokes. Zucchinis. Pumpkins. Squash (what some cultures call pumpkins). Sweet potatoes and potato-potatoes. Jackfruit. Monk fruit. Fruit of the Loom. Fruits of our labor (this website). Sorrel. Pineapple. Mango. Gooseberries. Blackberries. Tomatoes. Heirloom tomatoes. Beets. Chives. Corn. Endive. Escarole, which, we swear, we’re vendors of organic produce, but if you asked us to describe what escaroles are...",
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "absoluteBoundingBox": {
+              "x": 1709.0,
+              "y": 2629.0,
+              "width": 822.0,
+              "height": 512.0
+            },
+            "absoluteRenderBounds": {
+              "x": 1709.4261474609375,
+              "y": 2637.0,
+              "width": 813.76428222656250,
+              "height": 499.09082031250
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT"
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "exportSettings": [],
+            "effects": [],
+            "characters": "We believe in produce. Tasty produce. Produce like:\n\nApples. Oranges. Limes. Lemons. Guavas. Carrots. Cucumbers. Jicamas. Cauliflowers. Brussels sprouts. Shallots. Japanese eggplants. Asparagus. Artichokes—Jerusalem artichokes, too. Radishes. Broccoli. Baby broccoli. Broccolini. Bok choy. Scallions. Ginger. Cherries. Raspberries. Cilantro. Parsley. Dill. \n\nWhat are we forgetting?\n\nOh! Onions. Yams. Avocados. Lettuce. Arugula (to some, “rocket”). Persian cucumbers, in addition to aforementioned “normal” cucumbers. Artichokes. Zucchinis. Pumpkins. Squash (what some cultures call pumpkins). Sweet potatoes and potato-potatoes. Jackfruit. Monk fruit. Fruit of the Loom. Fruits of our labor (this website). Sorrel. Pineapple. Mango. Gooseberries. Blackberries. Tomatoes. Heirloom tomatoes. Beets. Chives. Corn. Endive. Escarole, which, we swear, we’re vendors of organic produce, but if you asked us to describe what escaroles are...",
+            "style": {
+              "fontFamily": "Inter",
+              "fontPostScriptName": null,
+              "fontWeight": 400,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 20.0,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.0,
+              "lineHeightPx": 32.0,
+              "lineHeightPercent": 132.20657348632812,
+              "lineHeightPercentFontSize": 160.0,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "layoutVersion": 3,
+            "characterStyleOverrides": [],
+            "styleOverrideTable": {},
+            "lineTypes": [
+              "NONE",
+              "NONE",
+              "NONE",
+              "NONE",
+              "NONE",
+              "NONE",
+              "NONE"
+            ],
+            "lineIndentations": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "id": "4368:321111",
+            "name": "WHAT WE BELIEVE",
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "absoluteBoundingBox": {
+              "x": 1496.0,
+              "y": 2634.0,
+              "width": 181.0,
+              "height": 22.0
+            },
+            "absoluteRenderBounds": {
+              "x": 1496.27343750,
+              "y": 2639.8181152343750,
+              "width": 135.54528808593750,
+              "height": 10.1818847656250
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT"
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "exportSettings": [],
+            "effects": [],
+            "characters": "WHAT WE BELIEVE",
+            "style": {
+              "fontFamily": "Inter",
+              "fontPostScriptName": "Inter-SemiBold",
+              "fontWeight": 600,
+              "textCase": "UPPER",
+              "textAutoResize": "HEIGHT",
+              "fontSize": 14.0,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": 0.56000000000000005,
+              "lineHeightPx": 22.399999618530273,
+              "lineHeightPercent": 132.20657348632812,
+              "lineHeightPercentFontSize": 160.0,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "layoutVersion": 3,
+            "characterStyleOverrides": [],
+            "styleOverrideTable": {},
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ]
+          },
+          {
+            "id": "4368:321113",
+            "name": "jonathan-kemper-1HHrdIoLFpU-unsplash 1",
+            "type": "RECTANGLE",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "absoluteBoundingBox": {
+              "x": 1496.0,
+              "y": 1780.0,
+              "width": 504.0,
+              "height": 693.0
+            },
+            "absoluteRenderBounds": {
+              "x": 1496.0,
+              "y": 1780.0,
+              "width": 504.0,
+              "height": 693.0
+            },
+            "preserveRatio": true,
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT_RIGHT"
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "IMAGE",
+                "scaleMode": "FILL",
+                "imageRef": "76f3f33d7951544296fe5516d1417ff7d33f1e60"
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "INSIDE",
+            "exportSettings": [],
+            "effects": []
+          },
+          {
+            "id": "4368:321114",
+            "name": "Central California — The person who grew these was located in Central California and, er, hopefully very well-compensated.",
+            "type": "TEXT",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "absoluteBoundingBox": {
+              "x": 2060.0,
+              "y": 2366.0,
+              "width": 736.0,
+              "height": 44.0
+            },
+            "absoluteRenderBounds": {
+              "x": 2060.7756347656250,
+              "y": 2371.34082031250,
+              "width": 703.3771972656250,
+              "height": 35.5227050781250
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT_RIGHT"
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "SOLID",
+                "color": {
+                  "r": 0.0,
+                  "g": 0.0,
+                  "b": 0.0,
+                  "a": 1.0
+                }
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "OUTSIDE",
+            "exportSettings": [],
+            "effects": [],
+            "characters": "Central California — The person who grew these was located in Central California and, er, hopefully very well-compensated.",
+            "style": {
+              "fontFamily": "Inter",
+              "fontPostScriptName": null,
+              "fontWeight": 400,
+              "textAutoResize": "HEIGHT",
+              "fontSize": 14.0,
+              "textAlignHorizontal": "LEFT",
+              "textAlignVertical": "TOP",
+              "letterSpacing": -0.14000000000000001,
+              "lineHeightPx": 22.399999618530273,
+              "lineHeightPercent": 132.20657348632812,
+              "lineHeightPercentFontSize": 160.0,
+              "lineHeightUnit": "FONT_SIZE_%"
+            },
+            "layoutVersion": 3,
+            "characterStyleOverrides": [
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              4,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2,
+              2
+            ],
+            "styleOverrideTable": {
+              "4": {
+                "fontFamily": "Inter",
+                "fontPostScriptName": "Inter-Medium",
+                "fontWeight": 500
+              },
+              "2": {
+                "fontFamily": "Inter",
+                "fontPostScriptName": "Inter-Light",
+                "fontWeight": 300
+              }
+            },
+            "lineTypes": [
+              "NONE"
+            ],
+            "lineIndentations": [
+              0
+            ]
+          },
+          {
+            "id": "4368:321115",
+            "name": "Header",
+            "type": "FRAME",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "children": [
+              {
+                "id": "4368:321116",
+                "name": "World Peas",
+                "type": "TEXT",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "absoluteBoundingBox": {
+                  "x": 1496.0,
+                  "y": 1120.0,
+                  "width": 151.0,
+                  "height": 32.0
+                },
+                "absoluteRenderBounds": {
+                  "x": 1495.728027343750,
+                  "y": 1120.9919433593750,
+                  "width": 149.83825683593750,
+                  "height": 23.3601074218750
+                },
+                "constraints": {
+                  "vertical": "TOP",
+                  "horizontal": "LEFT"
+                },
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 0.25882354378700256,
+                      "g": 0.41960784792900085,
+                      "b": 0.12156862765550613,
+                      "a": 1.0
+                    }
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1.0,
+                "strokeAlign": "OUTSIDE",
+                "exportSettings": [],
+                "effects": [],
+                "characters": "World Peas",
+                "style": {
+                  "fontFamily": "Newsreader",
+                  "fontPostScriptName": "Newsreader-Medium",
+                  "fontWeight": 500,
+                  "textAutoResize": "WIDTH_AND_HEIGHT",
+                  "fontSize": 32.0,
+                  "textAlignHorizontal": "LEFT",
+                  "textAlignVertical": "TOP",
+                  "letterSpacing": -0.32000000000000001,
+                  "lineHeightPx": 32.0,
+                  "lineHeightPercent": 100.0,
+                  "lineHeightPercentFontSize": 100.0,
+                  "lineHeightUnit": "FONT_SIZE_%"
+                },
+                "layoutVersion": 3,
+                "characterStyleOverrides": [],
+                "styleOverrideTable": {},
+                "lineTypes": [
+                  "NONE"
+                ],
+                "lineIndentations": [
+                  0
+                ]
+              },
+              {
+                "id": "4368:321117",
+                "name": "Shop",
+                "type": "TEXT",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "absoluteBoundingBox": {
+                  "x": 2144.0,
+                  "y": 1124.50,
+                  "width": 39.0,
+                  "height": 21.0
+                },
+                "absoluteRenderBounds": {
+                  "x": 2144.93261718750,
+                  "y": 1128.704589843750,
+                  "width": 37.2258300781250,
+                  "height": 15.0681152343750
+                },
+                "constraints": {
+                  "vertical": "TOP",
+                  "horizontal": "RIGHT"
+                },
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 0.0,
+                      "g": 0.0,
+                      "b": 0.0,
+                      "a": 1.0
+                    }
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1.0,
+                "strokeAlign": "OUTSIDE",
+                "exportSettings": [],
+                "effects": [],
+                "characters": "Shop",
+                "style": {
+                  "fontFamily": "Inter",
+                  "fontPostScriptName": null,
+                  "fontWeight": 400,
+                  "textAutoResize": "WIDTH_AND_HEIGHT",
+                  "fontSize": 16.0,
+                  "textAlignHorizontal": "CENTER",
+                  "textAlignVertical": "CENTER",
+                  "letterSpacing": 0.0,
+                  "lineHeightPx": 20.799999237060547,
+                  "lineHeightPercent": 107.41783905029297,
+                  "lineHeightPercentFontSize": 130.0,
+                  "lineHeightUnit": "FONT_SIZE_%"
+                },
+                "layoutVersion": 3,
+                "characterStyleOverrides": [],
+                "styleOverrideTable": {},
+                "lineTypes": [
+                  "NONE"
+                ],
+                "lineIndentations": [
+                  0
+                ]
+              },
+              {
+                "id": "4368:321118",
+                "name": "Newstand",
+                "type": "TEXT",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "absoluteBoundingBox": {
+                  "x": 2231.0,
+                  "y": 1124.50,
+                  "width": 77.0,
+                  "height": 21.0
+                },
+                "absoluteRenderBounds": {
+                  "x": 2232.48730468750,
+                  "y": 1128.8636474609375,
+                  "width": 74.0197753906250,
+                  "height": 11.84094238281250
+                },
+                "constraints": {
+                  "vertical": "TOP",
+                  "horizontal": "RIGHT"
+                },
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 0.0,
+                      "g": 0.0,
+                      "b": 0.0,
+                      "a": 1.0
+                    }
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1.0,
+                "strokeAlign": "OUTSIDE",
+                "exportSettings": [],
+                "effects": [],
+                "characters": "Newstand",
+                "style": {
+                  "fontFamily": "Inter",
+                  "fontPostScriptName": null,
+                  "fontWeight": 400,
+                  "textAutoResize": "WIDTH_AND_HEIGHT",
+                  "fontSize": 16.0,
+                  "textAlignHorizontal": "CENTER",
+                  "textAlignVertical": "CENTER",
+                  "letterSpacing": 0.0,
+                  "lineHeightPx": 20.799999237060547,
+                  "lineHeightPercent": 107.41783905029297,
+                  "lineHeightPercentFontSize": 130.0,
+                  "lineHeightUnit": "FONT_SIZE_%"
+                },
+                "layoutVersion": 3,
+                "characterStyleOverrides": [],
+                "styleOverrideTable": {},
+                "lineTypes": [
+                  "NONE"
+                ],
+                "lineIndentations": [
+                  0
+                ]
+              },
+              {
+                "id": "4368:321119",
+                "name": "Who we are",
+                "type": "TEXT",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "absoluteBoundingBox": {
+                  "x": 2356.0,
+                  "y": 1124.50,
+                  "width": 90.0,
+                  "height": 21.0
+                },
+                "absoluteRenderBounds": {
+                  "x": 2356.73144531250,
+                  "y": 1128.8636474609375,
+                  "width": 88.06542968750,
+                  "height": 11.84094238281250
+                },
+                "constraints": {
+                  "vertical": "TOP",
+                  "horizontal": "RIGHT"
+                },
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 0.0,
+                      "g": 0.0,
+                      "b": 0.0,
+                      "a": 1.0
+                    }
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1.0,
+                "strokeAlign": "OUTSIDE",
+                "exportSettings": [],
+                "effects": [],
+                "characters": "Who we are",
+                "style": {
+                  "fontFamily": "Inter",
+                  "fontPostScriptName": null,
+                  "fontWeight": 400,
+                  "textAutoResize": "WIDTH_AND_HEIGHT",
+                  "fontSize": 16.0,
+                  "textAlignHorizontal": "CENTER",
+                  "textAlignVertical": "CENTER",
+                  "letterSpacing": 0.0,
+                  "lineHeightPx": 20.799999237060547,
+                  "lineHeightPercent": 107.41783905029297,
+                  "lineHeightPercentFontSize": 130.0,
+                  "lineHeightUnit": "FONT_SIZE_%"
+                },
+                "layoutVersion": 3,
+                "characterStyleOverrides": [],
+                "styleOverrideTable": {},
+                "lineTypes": [
+                  "NONE"
+                ],
+                "lineIndentations": [
+                  0
+                ]
+              },
+              {
+                "id": "4368:321120",
+                "name": "My profile",
+                "type": "TEXT",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "absoluteBoundingBox": {
+                  "x": 2494.0,
+                  "y": 1124.50,
+                  "width": 76.0,
+                  "height": 21.0
+                },
+                "absoluteRenderBounds": {
+                  "x": 2495.76074218750,
+                  "y": 1128.3182373046875,
+                  "width": 73.07519531250,
+                  "height": 15.45446777343750
+                },
+                "constraints": {
+                  "vertical": "TOP",
+                  "horizontal": "RIGHT"
+                },
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 0.0,
+                      "g": 0.0,
+                      "b": 0.0,
+                      "a": 1.0
+                    }
+                  }
+                ],
+                "strokes": [],
+                "strokeWeight": 1.0,
+                "strokeAlign": "OUTSIDE",
+                "exportSettings": [],
+                "effects": [],
+                "characters": "My profile",
+                "style": {
+                  "fontFamily": "Inter",
+                  "fontPostScriptName": null,
+                  "fontWeight": 400,
+                  "textAutoResize": "WIDTH_AND_HEIGHT",
+                  "fontSize": 16.0,
+                  "textAlignHorizontal": "CENTER",
+                  "textAlignVertical": "CENTER",
+                  "letterSpacing": 0.0,
+                  "lineHeightPx": 20.799999237060547,
+                  "lineHeightPercent": 107.41783905029297,
+                  "lineHeightPercentFontSize": 130.0,
+                  "lineHeightUnit": "FONT_SIZE_%"
+                },
+                "layoutVersion": 3,
+                "characterStyleOverrides": [],
+                "styleOverrideTable": {},
+                "lineTypes": [
+                  "NONE"
+                ],
+                "lineIndentations": [
+                  0
+                ]
+              },
+              {
+                "id": "4368:321121",
+                "name": "Cart button",
+                "type": "FRAME",
+                "scrollBehavior": "SCROLLS",
+                "blendMode": "PASS_THROUGH",
+                "children": [
+                  {
+                    "id": "4368:321122",
+                    "name": "Basket (3)",
+                    "type": "TEXT",
+                    "scrollBehavior": "SCROLLS",
+                    "blendMode": "PASS_THROUGH",
+                    "absoluteBoundingBox": {
+                      "x": 2641.0,
+                      "y": 1124.50,
+                      "width": 80.0,
+                      "height": 21.0
+                    },
+                    "absoluteRenderBounds": {
+                      "x": 2642.2570800781250,
+                      "y": 1127.4602050781250,
+                      "width": 77.063964843750,
+                      "height": 14.43750
+                    },
+                    "constraints": {
+                      "vertical": "CENTER",
+                      "horizontal": "CENTER"
+                    },
+                    "fills": [
+                      {
+                        "blendMode": "NORMAL",
+                        "type": "SOLID",
+                        "color": {
+                          "r": 1.0,
+                          "g": 1.0,
+                          "b": 1.0,
+                          "a": 1.0
+                        }
+                      }
+                    ],
+                    "strokes": [],
+                    "strokeWeight": 1.0,
+                    "strokeAlign": "OUTSIDE",
+                    "exportSettings": [],
+                    "effects": [],
+                    "characters": "Basket (3)",
+                    "style": {
+                      "fontFamily": "Inter",
+                      "fontPostScriptName": "Inter-SemiBold",
+                      "fontWeight": 600,
+                      "textAutoResize": "WIDTH_AND_HEIGHT",
+                      "fontSize": 16.0,
+                      "textAlignHorizontal": "CENTER",
+                      "textAlignVertical": "CENTER",
+                      "letterSpacing": 0.0,
+                      "lineHeightPx": 20.799999237060547,
+                      "lineHeightPercent": 107.41783905029297,
+                      "lineHeightPercentFontSize": 130.0,
+                      "lineHeightUnit": "FONT_SIZE_%"
+                    },
+                    "layoutVersion": 3,
+                    "characterStyleOverrides": [],
+                    "styleOverrideTable": {},
+                    "lineTypes": [
+                      "NONE"
+                    ],
+                    "lineIndentations": [
+                      0
+                    ]
+                  }
+                ],
+                "absoluteBoundingBox": {
+                  "x": 2618.0,
+                  "y": 1111.0,
+                  "width": 126.0,
+                  "height": 48.0
+                },
+                "absoluteRenderBounds": {
+                  "x": 2618.0,
+                  "y": 1111.0,
+                  "width": 126.0,
+                  "height": 48.0
+                },
+                "constraints": {
+                  "vertical": "TOP",
+                  "horizontal": "RIGHT"
+                },
+                "clipsContent": true,
+                "background": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 0.25882354378700256,
+                      "g": 0.41960784792900085,
+                      "b": 0.12156862765550613,
+                      "a": 1.0
+                    }
+                  }
+                ],
+                "fills": [
+                  {
+                    "blendMode": "NORMAL",
+                    "type": "SOLID",
+                    "color": {
+                      "r": 0.25882354378700256,
+                      "g": 0.41960784792900085,
+                      "b": 0.12156862765550613,
+                      "a": 1.0
+                    }
+                  }
+                ],
+                "strokes": [],
+                "cornerRadius": 8.0,
+                "cornerSmoothing": 0.0,
+                "strokeWeight": 1.0,
+                "strokeAlign": "INSIDE",
+                "backgroundColor": {
+                  "r": 0.25882354378700256,
+                  "g": 0.41960784792900085,
+                  "b": 0.12156862765550613,
+                  "a": 1.0
+                },
+                "exportSettings": [],
+                "effects": []
+              }
+            ],
+            "absoluteBoundingBox": {
+              "x": 1400.0,
+              "y": 1079.0,
+              "width": 1440.0,
+              "height": 112.0
+            },
+            "absoluteRenderBounds": {
+              "x": 1400.0,
+              "y": 1079.0,
+              "width": 1440.0,
+              "height": 112.0
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT_RIGHT"
+            },
+            "clipsContent": true,
+            "background": [],
+            "fills": [],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "INSIDE",
+            "backgroundColor": {
+              "r": 0.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.0
+            },
+            "exportSettings": [],
+            "effects": []
+          },
+          {
+            "id": "4508:320607",
+            "name": "Stocksy_txp226f62b2aNe300_Medium_4582193 1",
+            "type": "RECTANGLE",
+            "scrollBehavior": "SCROLLS",
+            "blendMode": "PASS_THROUGH",
+            "absoluteBoundingBox": {
+              "x": 2060.0,
+              "y": 1870.0,
+              "width": 780.0,
+              "height": 480.0
+            },
+            "absoluteRenderBounds": {
+              "x": 2060.0,
+              "y": 1870.0,
+              "width": 780.0,
+              "height": 480.0
+            },
+            "constraints": {
+              "vertical": "TOP",
+              "horizontal": "LEFT_RIGHT"
+            },
+            "fills": [
+              {
+                "blendMode": "NORMAL",
+                "type": "IMAGE",
+                "scaleMode": "FILL",
+                "imageRef": "0df0723d98ed140baad5fa88103f2153d6fd6a19"
+              }
+            ],
+            "strokes": [],
+            "strokeWeight": 1.0,
+            "strokeAlign": "INSIDE",
+            "exportSettings": [],
+            "effects": []
+          }
+        ],
+        "absoluteBoundingBox": {
+          "x": 1400.0,
+          "y": 1079.0,
+          "width": 1440.0,
+          "height": 2092.0
+        },
+        "absoluteRenderBounds": {
+          "x": 1400.0,
+          "y": 1079.0,
+          "width": 1440.0,
+          "height": 2092.0
+        },
+        "constraints": {
+          "vertical": "TOP",
+          "horizontal": "LEFT"
+        },
+        "clipsContent": true,
+        "background": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          }
+        ],
+        "fills": [
+          {
+            "blendMode": "NORMAL",
+            "type": "SOLID",
+            "color": {
+              "r": 1.0,
+              "g": 1.0,
+              "b": 1.0,
+              "a": 1.0
+            }
+          }
+        ],
+        "strokes": [],
+        "strokeWeight": 1.0,
+        "strokeAlign": "INSIDE",
+        "backgroundColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "layoutGrids": [
+          {
+            "pattern": "COLUMNS",
+            "sectionSize": 74.666664123535156,
+            "visible": true,
+            "color": {
+              "r": 1.0,
+              "g": 0.0,
+              "b": 0.0,
+              "a": 0.10000000149011612
+            },
+            "alignment": "STRETCH",
+            "gutterSize": 32.0,
+            "offset": 96.0,
+            "count": 12
+          }
+        ],
+        "exportSettings": [],
+        "effects": []
+      },
+      "components": {},
+      "componentSets": {},
+      "schemaVersion": 0,
+      "styles": {}
+    }
+  }
+}
